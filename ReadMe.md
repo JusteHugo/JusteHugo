@@ -2,7 +2,7 @@
 
 Hello, I'm Hugo a 21yo Graduate student from Normandie, France. 
 
-I know my ways with python, C, JS, PHP and basic front-end langages
+I know my way around Python, C, JavaScript, PHP, and basic front-end languages.
 
 I speak: English(B2), French (Native) and some spanish.
 
